@@ -1,0 +1,8 @@
+a=1/4
+b=1/5
+if a>b:
+    print('descendente')
+elif a<b:
+    print('ascendente')
+else:
+    print('iguales')
